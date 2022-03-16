@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Éder Leite
 
 - 🌱 Estudando Sistemas para Internet na Fatec Taquaritinga
-- ⚡ Estou na busca de um estágio ou primeiro emprego para aprimorar meus conhecimentos .
+
 <div>
   <a href="https://github.com/EderLeite94">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EderLeite94&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
